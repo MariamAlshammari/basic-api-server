@@ -1,4 +1,4 @@
-'ude strict';
+'use strict';
 
 require('dotenv').config();
 
